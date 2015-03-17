@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+               BuildableName = "iWatchResearch WatchKit App.app"
+               BlueprintName = "iWatchResearch WatchKit App"
+               ReferencedContainer = "container:iWatchResearch.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9DBBA1A81AB685A700F00BA7"
+               BuildableName = "iWatchResearch.app"
+               BlueprintName = "iWatchResearch"
+               ReferencedContainer = "container:iWatchResearch.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9DBBA1D11AB685EC00F00BA7"
+               BuildableName = "iWatchResearch WatchKit Extension.appex"
+               BlueprintName = "iWatchResearch WatchKit Extension"
+               ReferencedContainer = "container:iWatchResearch.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+            BuildableName = "iWatchResearch WatchKit App.app"
+            BlueprintName = "iWatchResearch WatchKit App"
+            ReferencedContainer = "container:iWatchResearch.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "8"
+      notificationPayloadFile = "iWatchResearch WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/iWatchResearch">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+            BuildableName = "iWatchResearch WatchKit App.app"
+            BlueprintName = "iWatchResearch WatchKit App"
+            ReferencedContainer = "container:iWatchResearch.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+            BuildableName = "iWatchResearch WatchKit App.app"
+            BlueprintName = "iWatchResearch WatchKit App"
+            ReferencedContainer = "container:iWatchResearch.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/iWatchResearch">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+            BuildableName = "iWatchResearch WatchKit App.app"
+            BlueprintName = "iWatchResearch WatchKit App"
+            ReferencedContainer = "container:iWatchResearch.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9DBBA1E01AB685ED00F00BA7"
+            BuildableName = "iWatchResearch WatchKit App.app"
+            BlueprintName = "iWatchResearch WatchKit App"
+            ReferencedContainer = "container:iWatchResearch.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
